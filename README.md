@@ -2,6 +2,12 @@
 
 This is proof of concept on how to use MCP to interactively benchmark vLLM.
 
+We are not new to benchmarking, read our blog:
+
+[Benchmarking vLLM](https://eliovp.com/introducing-our-benchmarking-tool-powered-by-dstack/)
+
+This is just an exploration of possibilities with MCP.
+
 ## Usage
 
 1. Clone the repository
